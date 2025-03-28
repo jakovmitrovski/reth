@@ -92,6 +92,7 @@ test-utils = [
     "reth-trie-sparse/test-utils",
     "reth-stages-types/test-utils",
 ]
+eip1186 = []
 
 [[bench]]
 name = "hash_post_state"
